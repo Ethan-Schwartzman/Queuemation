@@ -1,0 +1,19 @@
+{
+	"name": "com.ethancschwartzman.queuemation",
+	"displayName":"Queuemation",
+	"version": "0.1.0",
+	"unity": "6000.3",
+	"unityRelease": "0f1",
+	"description": "Queuemation is an asynchronous function sequencing system targeted towards animations for turn-based and card games.",
+	"dependencies": {
+		"com.unity.test-framework": "1.6.0",
+		"com.cysharp.unitask": "2.5.10"
+	},
+	"author": {
+		"name": "Ethan Schwartzman",
+		"url": "https://github.com/Ethan-Schwartzman"
+	},
+	"changelogUrl": "https://github.com/Ethan-Schwartzman/Queuemation",
+	"documentationUrl": "https://github.com/Ethan-Schwartzman/Queuemation",
+	"licensesUrl": "https://github.com/Ethan-Schwartzman/Queuemation"
+}
