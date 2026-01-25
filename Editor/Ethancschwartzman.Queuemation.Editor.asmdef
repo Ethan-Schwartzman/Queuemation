@@ -1,0 +1,10 @@
+{
+    "name": "Ethancschwartzman.Queuemation.Editor",
+    "references": [
+      "Ethancschwartzman.Queuemation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

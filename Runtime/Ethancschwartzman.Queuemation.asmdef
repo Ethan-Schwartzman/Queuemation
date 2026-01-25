@@ -1,0 +1,8 @@
+{
+    "name": "Ethancschwartzman.Queuemation",
+    "references": [
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
