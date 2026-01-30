@@ -45,7 +45,8 @@ namespace QueuemationPackage
             while (queuemations.Count > 0)
             {
                 controller.CT.ThrowIfCancellationRequested();
-                await queuemations.Dequeue().Play();
+                await queuemations.Peek().Play();
+                queuemations.Dequeue();
             }
 
             live = false;
